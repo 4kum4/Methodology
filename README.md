@@ -8,7 +8,7 @@ Some of the topics I enjoy and like to have here are __OSINT__, __Bug Hunting__ 
 
 ## Methodologies
 * [OSINT](#OSINT)
-* [Bug Hunting](#Bug Hunting)
+* [Bug Hunting](#Bug-Hunting)
 * [Hacking](#Hacking)
 
 
@@ -32,3 +32,4 @@ Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
+ 
