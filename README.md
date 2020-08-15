@@ -21,14 +21,14 @@ This project is simple Lorem ipsum dolor generator ATM.
 
 
 ## Bug Hunting
-Project is created with:
+This project is simple Lorem ipsum dolor generator ATM.
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
 
 
 ## Hacking
-Project is created with:
+This project is simple Lorem ipsum dolor generator ATM.
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
