@@ -7,14 +7,16 @@ In this repository, I will update my methodologies for different topics. Hopeful
 Some of the topics I enjoy and like to have here are __OSINT__, __Bug Hunting__ & __Hacking__.
 
 ## Methodologies
-* [OSINT](#OSINT)
+* [SE & OSINT](#SE-&-OSINT)
 * [Bug Hunting](#Bug-Hunting)
 * [Hacking](#Hacking)
 
 
 
-## OSINT
-This project is simple Lorem ipsum dolor generator ATM.
+## SE & OSINT
+This project is a simple Lorem ipsum dolor generator ATM.
+__SE__ or Social Engineering, for me, should go altogether with __OSINT__ as having as many resources possible from a target will help us with a good __pretext__ when we need to do an __active recoinoisence__ on the target.
+
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
